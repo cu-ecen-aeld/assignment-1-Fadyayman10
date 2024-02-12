@@ -1,0 +1,2 @@
+aarch64-none-linux-gnu-gcc -v -E - < /dev/null 2>&1 | grep "aarch64-none-linux-gnu"
+aarch64-none-linux-gnu-gcc -print-sysroot
